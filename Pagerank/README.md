@@ -5,4 +5,4 @@ Developed a web application which displays results for a given query by calculat
 
 Technologies Used: Java, Solr, Apache Tika, PHP
 
-The detailed description can be found here - [Description](https://github.com/parthvaghani1995/Information-Retrieval-and-Web-Search-Engines/blob/master/Pagerank/Homework4.pdf) and a detailed report can be found here - [Report](https://github.com/parthvaghani1995/Information-Retrieval-and-Web-Search-Engines/blob/master/Pagerank/Report.pdf)
+The detailed description can be found here - [Description](https://github.com/krish1411995/InformationRetrieval/blob/master/Pagerank/Homework4.pdf) and a detailed report can be found here - [Report](https://github.com/krish1411995/InformationRetrieval/blob/master/Pagerank/Report.pdf)
